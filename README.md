@@ -1,7 +1,7 @@
 # TripSnekPublic
 Current playable build of TripSnek
 
-Use 'Q', 'W', 'E', and 'R' to set your orbit distance.
+Use 'Q', 'W', Up arrow or Down Arrow to set your orbit distance.
 
 Collide with the green circles to move to a new target and get points.
 
